@@ -1,0 +1,14 @@
+.servicesContent h3 {
+  color: #252323;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  margin-bottom: 10px;
+}
+.servicesContent p {
+  font-size: 18px;
+  letter-spacing: 2px;
+  line-height: 1.5;
+  color: #fff;
+  padding-bottom: 10px;
+}

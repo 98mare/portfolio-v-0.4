@@ -1,0 +1,22 @@
+.work-container {
+  padding-right: 150px;
+  padding-left: 100px;
+  display: block;
+  box-sizing: border-box;
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+.work-container h2 {
+  color: #252323;
+  font-size: 50px;
+  margin: 40px 0;
+  letter-spacing: 3px;
+  text-transform: capitalize;
+  font-weight: 800;
+}
+hr {
+  margin: 20px 0;
+}
+.works a {
+  text-decoration: none;
+}

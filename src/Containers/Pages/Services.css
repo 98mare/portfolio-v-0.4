@@ -1,0 +1,26 @@
+.services-continer {
+  display: flex;
+  margin-left: 100px;
+  margin-right: 150px;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: space-between;
+}
+.col-1-services {
+  background-color: rgba(207, 83, 52, 0.603);
+  box-sizing: border-box;
+  padding: 30px 30px;
+  width: 54%;
+}
+
+.col-1-services h2 {
+  display: block;
+  color: #fff;
+  font-size: 40px;
+  text-transform: capitalize;
+  font-weight: 700;
+  letter-spacing: 4px;
+  margin: 20px 0;
+}

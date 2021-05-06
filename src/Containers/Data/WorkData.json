@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "workDone": "Front End and Back End",
+      "clientName": "British Gurkha Memorial Park",
+      "coverImage": "hester-qiang-LhY8gh5_u_g-unsplash.jpg",
+      "logo": "bgmpLogo.png",
+      "webViewImage": "bgmp.png",
+      "mobileViewImageOne": "hester-qiang-LhY8gh5_u_g-unsplash.jpg",
+      "mobileViewImageTwo": "bgmp.png",
+      "publishDate": 2020,
+      "clientDetail": "The British Gurkha Army, known in Nepal as 'BirGorkhali', has overtime established a unique identity and Legacy. From World War I to now, the fame of the Gurkhashas spread throughout the world. With their ammunition expended, the Gurkhas would draw their Khukuris and strike terror into the hearts of their enemies with the battlefield roar'aayoGorkha'.With such sacrifice the Gurkhas have left their blood and fierce reputation on battlefields throughout the World."
+    },
+    {
+      "id": 2,
+      "workDone": "Intern Project",
+      "clientName": "Blood Bank Management System",
+      "coverImage": "hester-qiang-LhY8gh5_u_g-unsplash.jpg",
+      "logo": "bloodLogo.png",
+      "webViewImage": "bgmp.png",
+      "mobileViewImageOne": "hester-qiang-LhY8gh5_u_g-unsplash.jpg",
+      "mobileViewImageTwo": "bgmp.png",
+      "publishDate": 2020,
+      "clientDetail": "The British Gurkha Army, known in Nepal as 'BirGorkhali', has overtime established a unique identity and Legacy. From World War I to now, the fame of the Gurkhashas spread throughout the world. With their ammunition expended, the Gurkhas would draw their Khukuris and strike terror into the hearts of their enemies with the battlefield roar'aayoGorkha'.With such sacrifice the Gurkhas have left their blood and fierce reputation on battlefields throughout the World."
+    },
+    {
+      "id": 3,
+      "workDone": "Intern Project",
+      "clientName": "Bank Management System",
+      "coverImage": "hester-qiang-LhY8gh5_u_g-unsplash.jpg",
+      "logo": "bgmpLogo.png",
+      "webViewImage": "bgmp.png",
+      "mobileViewImageOne": "hester-qiang-LhY8gh5_u_g-unsplash.jpg",
+      "mobileViewImageTwo": "bgmp.png",
+      "publishDate": 2019,
+      "clientDetail": "The British Gurkha Army, known in Nepal as 'BirGorkhali', has overtime established a unique identity and Legacy. From World War I to now, the fame of the Gurkhashas spread throughout the world. With their ammunition expended, the Gurkhas would draw their Khukuris and strike terror into the hearts of their enemies with the battlefield roar'aayoGorkha'.With such sacrifice the Gurkhas have left their blood and fierce reputation on battlefields throughout the World."
+    }
+  ],
+  "aboutInfo": [
+    {
+      "info": "I currently am working as a UX Engineer at GoDaddy, which is where my passion for design and development converge. See my previous work history on LinkedIn. Outside of work I have a beautiful wife and cat (obviously). I am also working on a few side projects including Investment Calculator (a simple tool to teach people about investing) and dayofthedead.holiday. Currently I am not accepting freelance work, but I'd love to get coffee and get to know you, so don’t hesitate to get in touch",
+      "shortInfo": "I currently am working as a UX Engineer at GoDaddy, which is where my passion for design and development converge. See my previous work history on LinkedIn."
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "serviceTitle": "UI/UX Design",
+      "serviceDetail": "UI/UX involves planning and iterating a site's structure and layout. Once the proper information architecture is in place, I design the visual layer to create a beautiful user experience."
+    },
+    {
+      "id": 2,
+      "serviceTitle": "Front-End Developnment",
+      "serviceDetail": "Converting UI design into framework. Creating animated design and so on"
+    },
+    {
+      "id": 3,
+      "serviceTitle": "Back-End Developnment",
+      "serviceDetail": "I use Node.js, laravel, mongoDb as a back-end Frame-work. I use Node.js, laravel, mongoDb as a back-end Frame-work"
+    }
+  ]
+}

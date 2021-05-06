@@ -1,0 +1,40 @@
+.workpage-container {
+  padding-left: 100px;
+  padding-right: 150px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  width: 100%;
+  margin: 100px 0;
+}
+.workpage-container h3 {
+  margin: 40px 0 0px 0;
+  letter-spacing: 3px;
+}
+
+.web-view-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+.website-view {
+  width: 60%;
+}
+.website-detail {
+  width: 40%;
+  box-sizing: border-box;
+  padding: 10px 10px 10px 100px;
+}
+.website-detail h4 {
+  color: rgb(207, 83, 52);
+  font-size: 26px;
+  letter-spacing: 2px;
+  text-transform: capitalize;
+  margin-top: 10px;
+}
+.workpage-container p {
+  font-size: 18px;
+  letter-spacing: 2px;
+  line-height: 1.5;
+  margin: 10px 0;
+}
